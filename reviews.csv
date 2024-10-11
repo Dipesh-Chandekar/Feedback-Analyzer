@@ -1,0 +1,202 @@
+Customer ID,Product ID,Review,Date,Rating
+C001,P001,Great product I love it!,6/12/2024,5
+C001,P003,Decent for the price would recommend.,6/20/2024,4
+C002,P002,Not what I expected poor quality.,6/21/2024,2
+C003,P001,Terrible experience will not buy again.,7/26/2024,1
+C004,P002,Okay product but could be better.,6/6/2024,3
+C005,P001,Excellent quality worth the price.,6/25/2024,5
+C006,P002,Product was okay delivery was slow.,6/21/2024,3
+C007,P003,Very satisfied with the purchase.,7/22/2024,4
+C008,P001,Not as described quite disappointed.,6/24/2024,2
+C009,P002,Just what I needed happy with it.,6/7/2024,4
+C010,P003,Good value for money will buy again.,7/5/2024,4
+C011,P001,Highly recommend great service.,7/21/2024,5
+C012,P002,Expected better quality not worth it.,6/2/2024,2
+C013,P003,Satisfactory product meets expectations.,6/15/2024,3
+C014,P001,Absolutely love it exceeded expectations.,7/11/2024,5
+C015,P002,Average product nothing special.,7/8/2024,3
+C016,P003,Fantastic experience very pleased.,7/1/2024,5
+C017,P001,Disappointed with the product not as described.,6/18/2024,1
+C018,P002,Product was good but shipping was late.,7/20/2024,3
+C019,P003,Great quality for the price would buy again.,7/30/2024,4
+C020,P001,Very happy with the purchase great quality.,6/7/2024,5
+C021,P002,Not satisfied with the purchase expected more.,7/3/2024,2
+C022,P003,Product is okay but there are better options.,7/8/2024,3
+C023,P001,Loved it would recommend to others.,7/23/2024,4
+C024,P002,Product did not meet my expectations.,6/15/2024,2
+C025,P003,Very good product would recommend.,7/30/2024,4
+C026,P001,Fantastic product will buy again.,6/7/2024,5
+C027,P002,Not as good as I expected.,6/9/2024,2
+C028,P003,Very happy with this purchase.,6/16/2024,4
+C029,P001,Exceeded my expectations amazing quality!,6/21/2024,5
+C030,P002,The product is decent but the service was lacking.,6/4/2024,3
+C031,P003,Good product fair price.,7/25/2024,4
+C032,P001,Very poor quality will not recommend.,7/20/2024,1
+C033,P002,Product was fine but shipping was delayed.,7/16/2024,3
+C034,P003,Exactly what I was looking for.,6/23/2024,4
+C035,P001,Loved it great value for the price.,7/1/2024,5
+C036,P002,Not impressed with the quality.,7/27/2024,2
+C037,P003,Very pleased with the purchase.,7/24/2024,4
+C038,P001,Product did not meet my expectations.,6/30/2024,2
+C039,P002,Service was good but the product was average.,6/2/2024,3
+C040,P003,Excellent quality highly recommend.,7/7/2024,5
+C041,P001,Product is okay but not what I expected.,6/18/2024,3
+C042,P002,Not worth the price.,6/12/2024,2
+C043,P003,Good purchase overall.,7/3/2024,4
+C044,P001,Great product excellent value.,6/22/2024,5
+C045,P002,The product was alright could be better.,6/21/2024,3
+C046,P003,Very satisfied with the quality and service.,6/20/2024,5
+C047,P001,Very disappointed with the product.,6/20/2024,1
+C048,P002,Service was good but the product was not up to mark.,7/1/2024,2
+C049,P003,Good quality would purchase again.,7/13/2024,4
+C010,P001,Product is great exceeded expectations.,7/22/2024,5
+C011,P002,Product did not meet my needs.,6/13/2024,2
+C012,P003,Quite satisfied with the purchase.,7/16/2024,4
+C013,P001,Absolutely love this product.,7/25/2024,5
+C014,P002,Okay product but I expected better.,6/1/2024,3
+C015,P003,Great product highly recommend.,7/1/2024,5
+C016,P001,Product quality is subpar.,6/10/2024,2
+C017,P002,The product is fine but service was slow.,6/1/2024,3
+C018,P003,Very happy with my purchase.,7/30/2024,4
+C019,P001,Not worth the money.,6/28/2024,1
+C010,P002,Good product good value.,7/10/2024,4
+C011,P003,Very pleased with this purchase.,7/18/2024,5
+C012,P001,Product did not meet expectations.,6/29/2024,2
+C013,P002,Decent product average quality.,7/18/2024,3
+C024,P003,Excellent quality would buy again.,6/10/2024,5
+C025,P001,Quite disappointed with the product.,7/29/2024,1
+C026,P002,Product was okay but could be improved.,7/9/2024,3
+C027,P003,Satisfied with the quality and price.,7/26/2024,4
+C028,P001,Love this product highly recommend.,6/11/2024,5
+C029,P002,The product was average not impressed.,6/10/2024,2
+C020,P003,Good product overall.,7/31/2024,4
+C031,P001,Fantastic quality will purchase again.,6/7/2024,5
+C032,P002,Not up to the mark but okay.,7/1/2024,2
+C033,P003,Very pleased with the product.,6/19/2024,4
+C034,P001,Exceeded my expectations excellent product!,6/13/2024,5
+C035,P002,Product is average service was slow.,7/27/2024,3
+C036,P003,Good quality for the price.,6/8/2024,4
+C037,P001,Very poor quality definitely not recommending.,7/15/2024,1
+C038,P002,The product was acceptable but delivery was late.,7/7/2024,3
+C039,P003,Exactly what I needed happy with it.,7/17/2024,4
+C030,P001,Great product worth every penny.,7/30/2024,5
+C031,P002,Product did not meet my expectations.,7/10/2024,2
+C032,P003,Very satisfied with the quality and service.,6/11/2024,4
+C033,P001,Disappointed with the product not as described.,7/21/2024,1
+C034,P002,Average product service was okay.,6/20/2024,3
+C035,P003,Great value for the money would buy again.,6/20/2024,4
+C036,P001,Product is excellent highly recommend.,6/25/2024,5
+C037,P002,Product quality is subpar not worth it.,6/17/2024,2
+C048,P003,Very pleased with my purchase.,6/9/2024,4
+C049,P001,Loved it will definitely recommend.,6/4/2024,5
+C040,P002,Okay product could be improved.,7/26/2024,3
+C041,P003,Good quality good value for the price.,7/30/2024,4
+C042,P001,Not worth the money very disappointed.,6/20/2024,1
+C043,P002,Product was decent but service was lacking.,7/30/2024,3
+C044,P003,Very happy with this purchase.,6/10/2024,5
+C045,P001,Quality was not as expected very disappointed.,7/8/2024,2
+C046,P002,Product was fine but the shipping was delayed.,7/14/2024,3
+C047,P003,Great product overall would buy again.,6/13/2024,4
+C048,P001,Fantastic product highly recommend.,7/25/2024,5
+C009,P002,Not satisfied with the quality of the product.,7/7/2024,2
+C010,P003,Product is good very satisfied with the purchase.,6/12/2024,4
+C011,P001,Exceeded expectations excellent product!,6/30/2024,5
+C012,P002,Product is okay service was slow.,6/6/2024,3
+C013,P003,Very pleased with the quality and price.,8/1/2024,4
+C014,P001,Product did not meet my expectations.,7/2/2024,2
+C015,P002,Average quality but good value for money.,6/21/2024,3
+C036,P003,Excellent product highly satisfied.,6/5/2024,5
+C037,P001,Disappointed with the product quality.,7/11/2024,1
+C038,P002,Product was okay but shipping was slow.,7/28/2024,3
+C039,P003,Great value for the price happy with purchase.,7/3/2024,4
+C030,P001,Love the product will definitely recommend.,7/3/2024,5
+C001,P002,Not worth the money expected better.,7/18/2024,2
+C002,P003,Good product overall very satisfied.,6/8/2024,4
+C003,P001,Fantastic quality will buy again.,7/23/2024,5
+C004,P002,Product was fine but could be improved.,6/4/2024,3
+C005,P003,Very pleased with this purchase.,6/18/2024,4
+C006,P001,Product did not meet my expectations.,7/17/2024,2
+C007,P002,Okay product service was average.,7/26/2024,3
+C008,P003,Excellent quality would recommend.,7/7/2024,5
+C009,P001,Quite disappointed with the product.,7/29/2024,1
+C020,P002,Product is okay but service was slow.,7/7/2024,3
+C001,P001,Very poor quality not worth the money.,7/2/2024,1
+C002,P002,Product was defective and not as described.,6/4/2024,1
+C003,P003,Extremely disappointed will not purchase again.,7/16/2024,2
+C004,P004,Product arrived late and was damaged.,6/18/2024,2
+C005,P005,Not satisfied the quality is below average.,6/10/2024,2
+C006,P003,The product did not meet my expectations.,6/16/2024,2
+C007,P004,Very dissatisfied the item broke after one use.,7/11/2024,1
+C008,P005,The quality is poor I regret buying it.,6/26/2024,1
+C009,P003,Not what I was hoping for quite disappointed.,6/15/2024,2
+C030,P004,Terrible experience will not recommend.,6/8/2024,1
+C031,P005,Product did not match the description.,7/7/2024,2
+C032,P003,Very unhappy with the purchase.,6/9/2024,1
+C033,P004,Product arrived late and was of low quality.,6/29/2024,2
+C034,P005,Not worth the price very disappointed.,7/10/2024,1
+C035,P003,Quality was not as expected very unhappy.,7/30/2024,2
+C036,P004,Received a damaged product very poor service.,7/3/2024,1
+C037,P005,Product was not as described and defective.,7/12/2024,1
+C038,P003,Extremely unsatisfied with the quality.,8/1/2024,2
+C039,P004,Very poor quality will not buy again.,6/27/2024,1
+C040,P005,Disappointing product did not meet expectations.,8/1/2024,2
+C041,P003,Product did not work as advertised.,6/13/2024,1
+C042,P004,Product was damaged on arrival very unhappy.,6/28/2024,1
+C043,P005,Service was poor and product quality was bad.,6/11/2024,2
+C044,P003,Very disappointed will not recommend.,7/20/2024,1
+C045,P004,Product did not match the description and was defective.,7/10/2024,1
+C046,P005,Quality is terrible will not purchase again.,6/18/2024,1
+C047,P003,Received a faulty item very dissatisfied.,6/20/2024,2
+C048,P004,Product was late and of poor quality.,7/16/2024,2
+C049,P005,Very unhappy with the product and service.,7/21/2024,1
+C050,P003,Product was not worth the money very disappointed.,7/27/2024,2
+C011,P004,Product arrived broken will not buy again.,7/17/2024,1
+C012,P005,Service was poor and the product was defective.,7/12/2024,1
+C013,P003,The product was a huge disappointment.,6/19/2024,2
+C014,P004,Very dissatisfied with the product quality.,7/10/2024,1
+C015,P005,Product did not meet my needs very poor.,6/17/2024,2
+C016,P003,Received a damaged item very unhappy.,6/17/2024,1
+C017,P004,The product was defective and not usable.,7/21/2024,1
+C018,P005,Product quality was subpar will not recommend.,7/30/2024,2
+C019,P003,Extremely disappointed not worth the money.,6/17/2024,1
+C010,P004,Product did not match the description very poor.,6/23/2024,1
+C011,P005,Service was slow and product quality was bad.,7/22/2024,2
+C022,P003,Very poor quality will not buy again.,6/9/2024,1
+C023,P004,Received a faulty product very disappointed.,7/24/2024,1
+C024,P005,Product was defective and poorly made.,6/6/2024,1
+C025,P003,Not satisfied with the quality or service.,6/19/2024,2
+C026,P004,Very poor experience product did not work.,6/10/2024,1
+C027,P005,Product was subpar not worth the price.,7/6/2024,2
+C028,P003,Extremely unhappy with the product quality.,6/24/2024,1
+C029,P004,Received damaged goods will not purchase again.,7/30/2024,1
+C020,P005,Quality was very low very disappointed.,7/22/2024,1
+C021,P003,Product did not meet any of my expectations.,7/18/2024,2
+C022,P004,The item was defective and poorly made.,6/19/2024,1
+C023,P005,Very dissatisfied product was not usable.,7/21/2024,1
+C024,P003,Product was a letdown very poor quality.,6/8/2024,1
+C025,P004,Received a damaged product extremely unhappy.,6/30/2024,1
+C026,P005,Service was bad and the product was defective.,6/12/2024,1
+C037,P003,Product did not match the description very poor.,7/15/2024,2
+C038,P004,Very disappointed product quality was terrible.,7/6/2024,1
+C039,P005,Product was not worth the money very unhappy.,6/28/2024,2
+C030,P003,Received a faulty item extremely dissatisfied.,7/12/2024,1
+C031,P004,Product was late and of very low quality.,7/12/2024,2
+C032,P005,Service was poor and the product was defective.,6/26/2024,1
+C043,P003,Very disappointed with the purchase will not buy again.,6/16/2024,1
+C044,P004,Product quality was far below expectations.,6/25/2024,1
+C045,P005,Received a damaged product very dissatisfied.,6/15/2024,1
+C046,P003,The product did not meet any of my needs.,6/30/2024,2
+C047,P004,Product was defective very unhappy.,7/20/2024,1
+C048,P005,Quality was very poor not worth the price.,6/21/2024,1
+C049,P003,Received a faulty product very disappointing.,7/29/2024,2
+C040,P004,Very poor quality will not recommend.,6/4/2024,1
+C041,P005,Product did not meet my expectations very disappointed.,7/10/2024,2
+C042,P003,Extremely unsatisfied with the product.,6/11/2024,1
+C043,P004,Product was defective and poorly made.,7/22/2024,1
+C044,P005,Very disappointed not worth the money.,7/27/2024,2
+C045,P003,Product quality was very low will not buy again.,7/30/2024,1
+C046,P004,Received damaged goods very unhappy.,7/11/2024,1
+C047,P005,Service was slow and product was defective.,7/29/2024,2
+C048,P003,Product did not meet my expectations very poor.,6/12/2024,1
+C049,P004,Very dissatisfied with the product and service.,6/14/2024,1
+C020,P005,Product was defective and not usable.,7/23/2024,1
